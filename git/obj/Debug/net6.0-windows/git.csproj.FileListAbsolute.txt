@@ -1,0 +1,7 @@
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.csproj.AssemblyReference.cache
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.Form1.resources
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.csproj.GenerateResource.cache
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.AssemblyInfoInputs.cache
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.AssemblyInfo.cs
+C:\Users\2022102020048\source\repos\git\git\obj\Debug\net6.0-windows\git.csproj.CoreCompileInputs.cache
